@@ -30,7 +30,7 @@ Este tutorial explica cómo crear y evaluar gráficamente modelos de aprendizaje
   7. Abrimos la confuguración del nodo, nos paramos sobre el nodo y damos **clic derecho** y luego clic en **open**.
   8. Damos clic al boton. <img width="73" alt="change data asset" src="https://user-images.githubusercontent.com/46906169/86169833-db6c4280-badf-11ea-94da-fd0f5673c05b.PNG">
   9. Seleccionamos en la barra izquierda **Data assets** y luego **data set example.csv** que corresponde al archivo que cargamos previamente.
-  10. Agregamos un nodo de tipo derive que se encuentra en la sección **Field Operations**.
+  10. Agregamos un nodo de tipo ***derive*** que se encuentra en la sección **Field Operations**.
   
   ![nodo derive](https://user-images.githubusercontent.com/46906169/86172245-ad88fd00-bae3-11ea-86d4-ae6937f09dae.png)
 
@@ -41,7 +41,24 @@ Este tutorial explica cómo crear y evaluar gráficamente modelos de aprendizaje
   
   13. En la sección de **Expression** ingresamos la expresión **'Na'/'K'** y damos clic al boton. <img width="78" alt="save" src="https://user-images.githubusercontent.com/46906169/86174178-cc3cc300-bae6-11ea-95c4-5df503325fef.PNG">
   
-  14. 
+  14. Añadimos un nodo de tipo ***filter***  encuentra en la sección **Field Operations**.
+  
+  ![filter](https://user-images.githubusercontent.com/46906169/86174672-b380dd00-bae7-11ea-8de8-5d3c2ab39b46.png)
+
+  15. Abrimos la confuguración del nodo, nos paramos sobre el nodo y damos **clic derecho** y luego clic en **open**.
+  16. Seleccionamos en el area de **Select Fields** el Boton **Add Columns**.
+  17. Marcamos las casillas de Na y K luego damos clic a **OK** para guardar cambios.
+  <img width="335" alt="filter columns" src="https://user-images.githubusercontent.com/46906169/86177008-86cec480-baeb-11ea-9042-9fe8112dbca2.PNG">
+
+  18. Añadimos un nodo de tipo ***type***  encuentra en la sección **Field Operations**.
+![type](https://user-images.githubusercontent.com/46906169/86177299-ffce1c00-baeb-11ea-9911-60d36b3d6490.png)
+
+  19. Abrimos la confuguración del nodo, nos paramos sobre el nodo y damos **clic derecho** y luego clic en **open**.
+  20. En la columna **Role** cambiamos el tipo a **Target** y damos clic en el botón. <img width="78" alt="save" src="https://user-images.githubusercontent.com/46906169/86174178-cc3cc300-bae6-11ea-95c4-5df503325fef.PNG">
+  
+  ![type config](https://user-images.githubusercontent.com/46906169/86178239-a535bf80-baed-11ea-9204-3c73a515e762.png)
+
+  21. 
 
   
 
