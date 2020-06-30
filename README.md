@@ -58,7 +58,17 @@ Este tutorial explica cómo crear y evaluar gráficamente modelos de aprendizaje
   
   ![type config](https://user-images.githubusercontent.com/46906169/86178239-a535bf80-baed-11ea-9204-3c73a515e762.png)
 
-  21. 
+  21. Añadimos un nodo de tipo ***C5.0***  encuentra en la sección **Modeling**.
+  
+  ![c5](https://user-images.githubusercontent.com/46906169/86179468-ecbd4b00-baef-11ea-8fc9-3f7ef1d822e7.png)
+  
+  23. Corremos el modelo.
+  ![play](https://user-images.githubusercontent.com/46906169/86179733-71a86480-baf0-11ea-90ee-bd36dbdf3bb9.png)
+  
+
+  
+
+
 
   
 
