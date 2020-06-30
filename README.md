@@ -16,8 +16,21 @@ Este tutorial explica cómo crear y evaluar gráficamente modelos de aprendizaje
   2. En la ventana **Seleccionar tipo de arrchivo**, seleccione **Modeler flow**.
   3. En la página **New modeler flow**, seleccione la pestaña **New**.
   
-  <img width="960" alt="new_modeler" src="https://user-images.githubusercontent.com/46906169/85605262-9f386e00-b617-11ea-8ef6-648cd91a7c5d.PNG">
+<img width="953" alt="new_modeler" src="https://user-images.githubusercontent.com/46906169/86167357-005eb680-badc-11ea-86d5-242a6e6e5f16.PNG">
+  
+  4. Importante seleccionar como runtime **IBM SPSS Modeler**
+  5. Seleccione el data set desde nuestro equipo.
+  
+  ![subir el data set](https://user-images.githubusercontent.com/46906169/86168874-63e9e380-bade-11ea-8ee5-b7de2ff6ca48.png)
+  
+  6. Agrege nuestro data set al flujo.
+  
+  ![data import](https://user-images.githubusercontent.com/46906169/86169232-ea9ec080-bade-11ea-8d09-01030120c615.png)
 
+  7. Abra la confuguración del nodo, nos paramos sobre el nodo y damos **clic derecho** y luego clic en **open** 
+  8. Damos clic al boton. <img width="73" alt="change data asset" src="https://user-images.githubusercontent.com/46906169/86169833-db6c4280-badf-11ea-94da-fd0f5673c05b.PNG">
+  9. Seleccionamos en la barra izquierda **Data assets** y luego **data set example.csv** que corresponde al archivo que cargamos previamente.
+  
 
 
 
